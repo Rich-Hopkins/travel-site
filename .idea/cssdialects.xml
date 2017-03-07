@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CssDialectMappings">
-    <file url="file://$PROJECT_DIR$/app/assets/styles/base/_global.css" dialect="PostCSS" />
-    <file url="file://$PROJECT_DIR$/app/assets/styles/base/_variables.css" dialect="PostCSS" />
-    <file url="file://$PROJECT_DIR$/app/assets/styles/modules" dialect="PostCSS" />
-    <file url="file://$PROJECT_DIR$/app/assets/styles/styles.css" dialect="PostCSS" />
+    <file url="file://$PROJECT_DIR$/app/assets/styles" dialect="PostCSS" />
   </component>
 </project>

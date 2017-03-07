@@ -1,3 +1,2 @@
-/**
- * Created by hopme on 3/6/2017.
- */
+require('./gulp/tasks/styles');
+require('./gulp/tasks/watch');
